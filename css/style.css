@@ -54,7 +54,7 @@ a:visited {
   height: 100%;
   overflow: hidden;
   display: grid;
-  justify-self: center;
+  /*justify-self: center;*/
   align-self: center;
 }
 
